@@ -48,8 +48,7 @@ The system consists of **10 normalized tables**:
 
 ## 📊 ER Diagram
 
-![ER Diagram](er-diagram.png)
-
+![ER Diagram](Airplane%20model%20Diagram.drawio%20(1).png)
 ## 🚀 How to Use
 
 1. Clone this repository
